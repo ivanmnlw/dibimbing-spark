@@ -32,7 +32,7 @@
 2. Run Assignment-Kafka-Producer-part2.ipynb
    It will create a topic
    ![producer](https://github.com/user-attachments/assets/3663d98c-12e5-4544-9168-a2bdf65a31ea)
-3. Run Assignment-Spark-Consumer-Stream-part2.ipynb
+3. Run Assignment-Spark-Consumer-Stream-part2.ipynb and open console log
    ![console-log](https://github.com/user-attachments/assets/fa1a6b44-c626-43f1-a730-8cccf562f69c)
    the count aggregation process every 5 minute
 
